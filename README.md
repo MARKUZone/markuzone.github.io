@@ -4,7 +4,7 @@
 https://NikitaVolkov87.github.io/
 
 ## About
-This is advanced HTML layout demo of WatchShop online show with full adaptivity.
+This is advanced HTML layout demo of WatchShop online shop with full adaptivity.
 
 ## Technologies used
 - Bootstrap
